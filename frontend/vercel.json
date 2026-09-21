@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://edupath-4nqw.onrender.com/api/:path*"
+    }
+  ]
+}

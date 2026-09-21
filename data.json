@@ -1,0 +1,257 @@
+{
+  "name": "Rehan",
+  "target_role": "Machine Learning Engineer",
+  "current_skills": [
+    "Data Visualization",
+    "HTML/CSS",
+    "React",
+    "SQL",
+    "JavaScript",
+    "Machine Learning",
+    "AutoCAD",
+    "Java",
+    "C"
+  ],
+  "hours_per_week": 6,
+  "required_skills": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "SQL",
+    "Linear Algebra",
+    "Machine Learning",
+    "Scikit-learn",
+    "Data Visualization"
+  ],
+  "gaps": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Linear Algebra",
+    "Scikit-learn"
+  ],
+  "source": "ai",
+  "ai_error": null,
+  "plan": {
+    "source": "ai",
+    "weeks": [
+      {
+        "week": 1,
+        "topics": [
+          {
+            "id": 1,
+            "skill": "Python",
+            "title": "Basic Syntax and Data Types",
+            "hours": 3,
+            "done": false,
+            "resources": {
+              "tip": "Focus on understanding how Python interprets different data types and the syntax rules that govern variable assignment and expression evaluation.",
+              "practice": "Write a Python script that creates variables of each basic data type (int, float, str, bool, list, tuple, set, dict), prints their types, and demonstrates a simple operation for each (e.g., add two numbers, concatenate strings, access list element).",
+              "links": [
+                {
+                  "label": "Official Python tutorial",
+                  "url": "https://docs.python.org/3/tutorial/"
+                },
+                {
+                  "label": "Watch: YouTube tutorials",
+                  "url": "https://www.youtube.com/results?search_query=Python+syntax+and+data+types+tutorial"
+                },
+                {
+                  "label": "Read: free guides and tutorials",
+                  "url": "https://www.google.com/search?q=Python+syntax+and+data+types+tutorial+free+tutorial"
+                },
+                {
+                  "label": "Practice: exercises",
+                  "url": "https://www.google.com/search?q=Python+practice+exercises+for+beginners"
+                }
+              ],
+              "source": "ai"
+            }
+          },
+          {
+            "id": 2,
+            "skill": "Python",
+            "title": "Control Flow and Functions",
+            "hours": 3,
+            "done": false,
+            "resources": {
+              "tip": "Focus on understanding how loops, conditionals, and function scopes interact to manage program flow.",
+              "practice": "Write a function that takes a list of numbers and returns a new list containing only the even numbers, using a for loop and an if statement.",
+              "links": [
+                {
+                  "label": "Official Python tutorial",
+                  "url": "https://docs.python.org/3/tutorial/"
+                },
+                {
+                  "label": "Watch: YouTube tutorials",
+                  "url": "https://www.youtube.com/results?search_query=Python+control+flow+beginner+tutorial"
+                },
+                {
+                  "label": "Read: free guides and tutorials",
+                  "url": "https://www.google.com/search?q=Python+control+flow+beginner+tutorial+free+tutorial"
+                },
+                {
+                  "label": "Practice: exercises",
+                  "url": "https://www.google.com/search?q=Python+practice+exercises+for+beginners"
+                }
+              ],
+              "source": "ai"
+            }
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "topics": [
+          {
+            "id": 3,
+            "skill": "NumPy",
+            "title": "Arrays and Indexing",
+            "hours": 3,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "topics": [
+          {
+            "id": 4,
+            "skill": "NumPy",
+            "title": "Broadcasting and Vectorized Operations",
+            "hours": 4,
+            "done": false,
+            "resources": {
+              "tip": "Focus on understanding how array shapes are aligned and how NumPy automatically expands dimensions during operations.",
+              "practice": "Create two 2D arrays of shapes (3,1) and (1,4), perform element-wise addition, and verify the resulting shape is (3,4).",
+              "links": [
+                {
+                  "label": "NumPy quickstart",
+                  "url": "https://numpy.org/doc/stable/user/quickstart.html"
+                },
+                {
+                  "label": "Watch: YouTube tutorials",
+                  "url": "https://www.youtube.com/results?search_query=NumPy+broadcasting+basics+tutorial"
+                },
+                {
+                  "label": "Read: free guides and tutorials",
+                  "url": "https://www.google.com/search?q=NumPy+broadcasting+basics+tutorial+free+tutorial"
+                },
+                {
+                  "label": "Practice: exercises",
+                  "url": "https://www.google.com/search?q=NumPy+practice+exercises+for+beginners"
+                }
+              ],
+              "source": "ai"
+            }
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "topics": [
+          {
+            "id": 5,
+            "skill": "NumPy",
+            "title": "Linear Algebra with NumPy",
+            "hours": 3,
+            "done": false
+          },
+          {
+            "id": 6,
+            "skill": "Pandas",
+            "title": "Series and DataFrames",
+            "hours": 3,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "topics": [
+          {
+            "id": 7,
+            "skill": "Pandas",
+            "title": "Data Cleaning and Manipulation",
+            "hours": 4,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 6,
+        "topics": [
+          {
+            "id": 8,
+            "skill": "Pandas",
+            "title": "Grouping and Aggregation",
+            "hours": 3,
+            "done": false
+          },
+          {
+            "id": 9,
+            "skill": "Linear Algebra",
+            "title": "Vectors and Matrices",
+            "hours": 3,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 7,
+        "topics": [
+          {
+            "id": 10,
+            "skill": "Linear Algebra",
+            "title": "Matrix Operations and Properties",
+            "hours": 4,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 8,
+        "topics": [
+          {
+            "id": 11,
+            "skill": "Linear Algebra",
+            "title": "Eigenvalues and Eigenvectors",
+            "hours": 3,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 9,
+        "topics": [
+          {
+            "id": 12,
+            "skill": "Scikit-learn",
+            "title": "Supervised Learning Basics",
+            "hours": 4,
+            "done": false
+          }
+        ]
+      },
+      {
+        "week": 10,
+        "topics": [
+          {
+            "id": 13,
+            "skill": "Scikit-learn",
+            "title": "Model Evaluation and Validation",
+            "hours": 3,
+            "done": false
+          },
+          {
+            "id": 14,
+            "skill": "Scikit-learn",
+            "title": "Unsupervised Learning",
+            "hours": 3,
+            "done": false
+          }
+        ]
+      }
+    ]
+  }
+}
